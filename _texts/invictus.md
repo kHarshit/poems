@@ -2,6 +2,7 @@
 layout: poem
 title: Invictus
 author: William Ernest Henley
+date: 2019-11-15 20:19
 editor: Harshit Kumar
 source: Poetry Foundation
 ---

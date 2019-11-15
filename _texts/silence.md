@@ -2,6 +2,7 @@
 layout: poem
 title: Silence
 author: Edgar Lee Masters
+date: 2019-11-15 21:00
 editor: Harshit Kumar
 source: PoemHunter
 ---
