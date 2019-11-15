@@ -3,7 +3,7 @@
 # Setup
 title:               Harshit Kumar | poems
 tagline:             'My favourite poems'
-description:         'This site lists my favourite poems -- on my personal site https://kHarshit.github.io'
+description:         'This site is a collection of my favourite poems. <br /> Home site: <a href="https://kHarshit.github.io">kHarshit.github.io</a>'
 url:                 'https://kharshit.github.io/'
 baseurl:             '/poems'
 
