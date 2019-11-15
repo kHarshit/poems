@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Harshit Kumar | poems
+tagline:             'My favourite poems'
+description:         'This site lists my favourite poems -- on my personal site https://kHarshit.github.io'
 url:                 'https://kharshit.github.io/'
 baseurl:             '/poems'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Harshit Kumar
+  url:               https://kHarshit.github.io
+  email:             kumar_harshit@outlook.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
