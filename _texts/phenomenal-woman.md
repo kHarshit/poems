@@ -2,7 +2,7 @@
 layout: poem
 title: Phenomenal Woman
 author: Maya Angelou
-date: 2019-11-15 20:58
+date: 2019-11-15 20:58 +05:30
 editor: Harshit Kumar
 source: Famous Poets and Poems
 ---

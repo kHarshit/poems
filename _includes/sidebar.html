@@ -20,7 +20,7 @@
     {% endcomment %}
 
     {% assign pages_list = site.pages | sort:"date" %}
-    {% for node in pages_list %}
+    {% for node in pages_list reversed %}
       {% if node.title != null and node.url != "/404.html" %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
