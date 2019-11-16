@@ -1,10 +1,10 @@
 ---
 layout: poem
 title: If All Your Dreams Come True
-author:
+author: Unknown
 date: 2019-11-17 15:31 +05:30
 editor: Harshit Kumar
-source: 
+source: Unknown
 ---
 
-![poem.jpg](/assets/poem1.jpg)
+![poem.jpg](/poems/assets/poem1.jpg)
