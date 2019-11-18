@@ -32,3 +32,9 @@ source: Poetry Foundation
 - One from the pitiless wave?
 - Is all that we see or seem
 - But a dream within a dream?
+
+---
+
+## Footnotes
+
+My favourite lines are from the second stanza where the poet asks God why he can't grasp the grains of sand, no matter how tight he holds. Read more [here](https://owlcation.com/humanities/Analysis-of-Poem-A-Dream-Within-A-Dream-by-Edgar-Allan-Poe) for the explanation of the poem.
