@@ -54,8 +54,9 @@ source: Poetry Foundation
 [^fn1]: --cause to sigh
 
 The poem is taken from "[The Cyeriad](https://en.wikipedia.org/wiki/The_Cyberiad)" in which the constructor Klaupacius, friend and rival of the constructor Trurl, who has created a machine which writes poetry, requests it for one.  
-    > "Very well. Let's have a love poem, lyrical, pastoral, and expressed in the language of pure mathematics. Tensor algebra mainly, with a little topology and higher calculus, if need be. But with feeling, you understand, and in the cybernetic spirit."  
-    >  "Love and tensor algebra? Have you taken leave of your senses?" Trurl began, but stopped, for his electronic bard was already declaiming:
+
+    > - "Very well. Let's have a love poem, lyrical, pastoral, and expressed in the language of pure mathematics. Tensor algebra mainly, with a little topology and higher calculus, if need be. But with feeling, you understand, and in the cybernetic spirit."  
+    >  - "Love and tensor algebra? Have you taken leave of your senses?" Trurl began, but stopped, for his electronic bard was already declaiming:
     {:.poetry}
 
-Read the complete [Trurl'sElectronic Bard](http://sfbay-anarchists.org/wp-content/uploads/2012/05/Trurls-Electronic-Bard.pdf).
+Read the [Trurl's Electronic Bard](http://sfbay-anarchists.org/wp-content/uploads/2012/05/Trurls-Electronic-Bard.pdf).
