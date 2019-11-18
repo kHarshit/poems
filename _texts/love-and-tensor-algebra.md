@@ -45,4 +45,10 @@ source: Poetry Foundation
 - I see the eigenvalue in thine eye,
 - I hear the tender tensor in thy sigh.
 - Bernoulli would have been content to die,
-- Had he but known such a^2 cos 2 ψ!
+- Had he but known such a^2 cos 2 ψ[^fn1]!
+
+---
+
+## Footnotes
+
+[^fn1]: --cause to sigh
