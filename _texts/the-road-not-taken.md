@@ -31,6 +31,8 @@ source: Poetry Foundation
 - I took the one less traveled by,
 - And that has made all the difference.
 
+---
+
 ## Footnotes
 
 At first sight, it looks like that poem suggests how not following the crowd — taking the road less traveled by — has made all the difference in the poet's life. On the other hand, some suggests that the poem regards the irony about people finding solace in arbitrary decisions.
