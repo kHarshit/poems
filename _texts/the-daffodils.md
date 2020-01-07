@@ -1,10 +1,10 @@
 ---
 layout: poem
-title: The Daffodils
+title: I Wandered Lonely as a Cloud
 author: William Wordsworth
 date: 2020-01-07 20:50 +05:30
 editor: Harshit Kumar
-source: Poem Hunter
+source: The Wordsworth Trust
 ---
 
 - I wandered lonely as a cloud
@@ -40,3 +40,5 @@ source: Poem Hunter
 ## Footnotes
 
 Wordsworth composed this poem from his sister Dorothy's journal entry which described the walk they both took around Glencoyne Bay, Ullswater in England. The poem describes how the daffodils that the poet saw at a bay reminds him of the bliss of solitude and fills his heart with pleasure. It means that you can be mesmerized by the beauty of nature around you if you take a pause to appreciate it. Sometimes, you need to be like clouds, which may seem lonely, but are also free if you change your perspective -- free to admire the dancing daffodils.  Read more on [Wikipedia](https://en.wikipedia.org/wiki/I_Wandered_Lonely_as_a_Cloud).
+
+The poem is also commonly referred to as "The Daffodils".
