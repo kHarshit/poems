@@ -29,6 +29,4 @@ source:
 
 ## Footnotes
 
-* https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains
-* https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains_(short_story)
-* https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf
+This poem by Sara Teasdale alludes to obliteration of human race by a war. It has been adapted in many works especially the one by [Ray Bradbury](https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf) by the same name. His [short story](https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains_(short_story)), published in the Cold War era, depicts the destruction of humanity by a nuclear war. It describes the devastating effects that the nuclear weapons can have, and portrayed the fear that was in everyone's mind following the dropping of nuclear bombs on Hiroshima and Nagasaki few years ago.
