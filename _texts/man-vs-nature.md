@@ -10,7 +10,7 @@ source:
 - The heavens roared with thunder
 - as lightning filled the skies
 - was this God getting angry
-- or Natures big surprise.
+- or Nature's big surprise.
 
 - Is Mother Nature telling us
 - the best way that she can
