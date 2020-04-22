@@ -47,4 +47,4 @@ source:
 
 In this poem, a man offers a woman to come with him, as she is tired -- tired of this routine of life without love, of things that keeps breaking -- her broken heart. He says "I think" to be not presumptuous. The mid sentence break in "and—" shows the exhaustion. In the next paragraphs, the author presents the woman a rose, asks to open her heart to him, as he'll take her away from this tiring reality. Note that there is a beautiful imagery in the last paragraph.
 
-The poem is about tiring effects unsuccessful love and heartbreaks, and late finding of true love, when author presents his offer to the woman. The poem itself recounts the story of the author, E. E. Cummings' life that he met his true love after two broken marriages.
+The poem is about the tiring effects of unsuccessful love and heartbreaks, and late finding of true love, when author presents his offer to the woman. The poem itself recounts the story of the author, E. E. Cummings' life that he met his true love after two broken marriages.
