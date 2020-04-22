@@ -13,9 +13,9 @@ source: Family Friend Poems
 - {:.indent-2}Is there anyone to utter now a kindly word of you?
 
 - Did you give a cheerful greeting to the friend who came along?
-- Or a churlish sort of "Howdy" and then vanish in the throng?
+- {:.indent-2}Or a churlish sort of "Howdy" and then vanish in the throng?
 - Were you selfish pure and simple as you rushed along the way,
-- Or is someone mighty grateful for a deed you did today?
+- {:.indent-2}Or is someone mighty grateful for a deed you did today?
 
 - Can you say tonight, in parting with the day that's slipping fast,
 - {:.indent-2}That you helped a single brother of the many that you passed?
