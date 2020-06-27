@@ -26,7 +26,7 @@ source:
 *[veteran]: experienced
 *[vicariously]: indirectly
 *[vicissitudes]: an unpleasant change of circumstances or fortune
-*[visage]: the appearance conveyed by a person's face
+*[visage]: the appearance conveyed by a person's face, countenance
 *[veneer]: covering
 *[vanity]: feelings of excessive pride or vain
 *[vestige]: remnant
@@ -38,7 +38,7 @@ source:
 *[vanquish]: defeat, conquer
 *[venal]: corrupt
 *[virulent]: extremely poisonous and harmful
-*[vermins]: insects or pests
+*[vermin]: insects or pests
 *[vanguarding]: leading, at front
 *[vice]: evildoing, opp. of virtue
 *[vouchsafing]: allowing or granting in a condescending or gracious manner
@@ -78,11 +78,35 @@ The only assurance is avengement; acrimony, held as anointed, not abortive, for 
 
 Assuredly, this applesauce of adverbs ain't too articulate, so let me simply add that it is my very good honor to meet you and you may call me A.
 
+*[abashed]: embarrassed or uneasy
+*[adept]: expert, having skill
+*[apathy]: absence of emotion, indifference
+*[affectation]: deliberate pretense
+*[apparition]: appearance of ghost-like figure
+*[antiquated]: extremely old
+*[aggravation]: annoyance, exasperation
+*[avowedly]: by open declaration
+*[asunder]: into pieces
+*[accursed]: under a curse
+*[acrid]: harsh and corrosive
+*[atrociously]: brutal, monstrous
+*[abhorrent]: detestable, repugnant, offensive
+*[avid]: enthusiastic, zealous
+*[accord]: accordance, agreement
+*[avengement]: avenge, revenge
+*[acrimony]: bitterness, acerbity, feud
+*[anointed]: chosen by or as if by divine intervention
+*[appositeness]: appropriateness
+*[absolve]: free from blame
+*[assiduous]: diligent, showing persistent effort
+*[accredited]: given official approval to act
+*[applesauce]: apple sauce
+
 <p align="center">&sect;</p> 
 
 **B's speech**
 
-Behold, a beleagured, bathetic brigadier, cast as both the brigand and the beseiged by the backhandedness of fate. This bemasked countenance, no mere brocade of beauty, is a bastion of the ballot box, now barren, bereft. However, this brazen bestirring of a bygone bete noir stands born-again, and has made bond to blight these bumptious and bilious bugs buttressing baseness and burnishing the bestially brutal and bacchanalian breach of birthrights.
+Behold, a beleagured, bathetic brigadier, cast as both the brigand and the beseiged by the backhandedness of fate. This bemasked countenance, no mere brocade of beauty, is a bastion of the ballot box, now barren, bereft. However, this brazen bestirring of a bygone bete noire stands born-again, and has made bond to blight these bumptious and bilious bugs buttressing baseness and burnishing the bestially brutal and bacchanalian breach of birthrights.
 
 *[carves B into wall]*
 
@@ -92,13 +116,42 @@ The byword is bellicosity; a blood feud, held as a bright banner, not baselessly
 
 Be sure, this bisque of blather becomes most bombastic, so let me simply add that it is my very good honor to meet you and you may call me B.
 
+*[beleagured]: annoyed, tormented
+*[bathetic]: maudlin, sentimental
+*[brigadier]: officer in army
+*[brigand]: bandit, armed thief
+*[beseiged]: surrounded
+*[backhandedness]: roundabout
+*[bemasked]: to mask or cover
+*[countenance]: appearance conveyed by a person's face
+*[brocade]: richly decorative shuttle-woven fabrics
+*[bastion]: protecting part of fortification, stronghold
+*[bereft]: sorrow through loss or deprivation
+*[brazen]: unrestrained
+*[bestirring]: making an effort, physical or mental
+*[bete noire]: detested person, a person or thing that one particularly dislikes
+*[blight]: plant disease
+*[bumptious]: aggressive, loud, irritatingly self-assertive
+*[bilious]: irritable
+*[buttressing]: supporting
+*[baseness]: unworthiness
+*[burnishing]: shine, brighten
+*[bestially]: inhuman manner
+*[bacchanalian]: inebriated, drunken revelry
+*[byword]: saying, proverb
+*[bellicosity]: belligerence, tendency to fight
+*[bestow]: give as gift, bless
+*[bisque]: soup
+*[blather]: gibber, babble, maunder, palaver
+*[bombastic]: ostentatious
+
 <p align="center">&sect;</p> 
 
 **C's speech**
 
 Callate!
 
-Clearly seen, a courteous clownish cobbler, cast consecutively as both casualty and cause by the caprice of Fate. This countenance, no mere crust of conceitedness, is a curio of the collective voice, now cast away, cast aside. However, this couragous cohering of an old and creaky conundrum now stands carnate, and has committed to conquering these crass and contemptible curs concurring with corruption and caretaking over the cannabalistically cruel and calamitous contravention of individual capacity.
+Clearly seen, a courteous clownish cobbler, cast consecutively as both casualty and cause by the caprice of Fate. This countenance, no mere crust of conceitedness, is a curio of the collective voice, now cast away, cast aside. However, this courageous cohering of an old and creaky conundrum now stands carnate, and has committed to conquering these crass and contemptible curs concurring with corruption and caretaking over the cannabalistically cruel and calamitous contravention of individual capacity.
 
 *[carves C into wall]*
 
@@ -108,6 +161,33 @@ The only consequence is comeuppance; a calling into account, held as cherished, 
 
 Clearly, this clam chowder of chatter craves condensing, so let me simply add that it is my very good honor to meet you and you may call me C.
 
+*[courteous]: politeness, courtesy, gracious good manners
+*[clownish]: like a clown
+*[cobbler]: one who repairs shoes
+*[caprice]: impulse, whim, sudden change in mood or behaviour
+*[crust]: outer layer
+*[conceitedness]: false pride, vanity
+*[curio]: unusual and worthy of collecting
+*[cohering]: united
+*[creaky]: make grating sound
+*[conundrum]: complex and difficult problem
+*[carnate]: in-carnate
+*[crass]: unrefined and uncouth (of person's behaviour)
+*[contemptible]: deserving of contempt or scorn
+*[curs]: 
+*[concurring]: of same opinion, accordant
+*[cannabalistically]: eating flesh of one's own kind
+*[calamitous]: extremely unfortunate, bringing calamity
+*[contravention]: dispute, conflict
+*[comeuppance]: consequence, outcome that describes fate or punishment
+*[cogency]: persuasiveness, rigour, validity
+*[corroborate]: support with evidence
+*[circumspect]: think carefully of consequences before doing
+*[chaste]: pure
+*[clam]: collect, gather
+*[chowder]: soup
+*[condensing]: thickening, increasing density
+
 <p align="center">&sect;</p> 
 
 **M's speech**
@@ -116,13 +196,30 @@ Well met!
 
 Measure carefully, a humble past maestro, cast as both mistreated and malefactor by the mutations of Fate. This manner, no mere masquerade of immodesty, is a mark of manumission, now missing, melted away. However, this mettle manifestation of a bygone millstone stands magnificently, and has moved to macerate these money-grubbing and malicious miscreants marshaling misconduct and mingling with the murderous malignant and merciless molestation of free mindedness.
 
-*[Carves M into wall]*
+*[carves M into wall]*
 
 The only motion is militant; a measure for measure, made as a compact, not meaninglessly, for the ministration and morality of such shall one day maintain the single-minded and meritorious.
 
 *[giggles]*
 
 Might I add, this medley of muddled maxims meanders most maunderingly, so let me simply add that it is my very good honor to you and you may call me M.
+
+*[maestro]: master in art
+*[malefactor]: someone who committed a crime
+*[masquerade]: wearing mark, disguise
+*[manumission]: freeing from slavery
+*[mettle]: courage or bravery to carry on
+*[millstone]: stones that grind against each other
+*[macerate]: soften, weaken
+*[miscreants]: person w/o moral scruples, reprobate
+*[marshaling]: arranging in order
+*[militant]: belligerent, war, aggressive
+*[ministration]: comfort, assist
+*[medley]: musical composition of series of songs
+*[muddled]: confused and vague
+*[maxims]: saying
+*[meanders]: wander aimlessly
+*[maunderingly]: speak incessantly, blabber, palaver
 
 <p align="center">&sect;</p> 
 
@@ -132,7 +229,7 @@ Might I add, this medley of muddled maxims meanders most maunderingly, so let me
 
 Observed as an ordinary old oaf, ostentatiously organized as both outcast and outlaw by the objectionable options of fate. This outfit, no mere obfuscation of originality, is the only orator of the ordinary-man, now oppressed, olden. However, this outlandish occurrence of an outdated obstacle stands re-originated, and has objective to oust these obscene and opprobrious oligarchs owning offense and ostensibly ostracizing the openly outrageous and obdurate obliteration of opportunity.
 
-*[Carves O into Wall]*
+*[carves O into Wall]*
 
 The only outcome is to overthrow; an onslaught, whose onset is offered, open-handedly, with the opinion and optimism that such shall one day oblige ovation of the observant and the objective.
 
@@ -140,13 +237,31 @@ The only outcome is to overthrow; an onslaught, whose onset is offered, open-han
 
 Obviously, this overwhelming oration has opted overboard, so let me simply add that it is my very good honor to meet you and you may call me O.
 
+*[Onslaught]: Attack against enemy
+*[oaf]: awkward, clumsy person
+*[ostentatiously]: showy, extravagantly
+*[obfuscation]: obscuring the sight of something
+*[outlandish]: unconventional, unusual, bizarre
+*[oust]: remove
+*[opprobrious]: abusive, offensive
+*[oligarchs]: one of the ruler of oligarchy, govt by few
+*[ostensibly]: as shown or pretended 
+*[ostracizing]: expel or banish from community
+*[obdurate]: stubborn, obstinate
+*[obliteration]: destruction, annihilation
+*[onset]: beginning
+*[oblige]: compel, obligate, force someone to do something
+*[ovation]: recognition, standing ovation
+*[oration]: formal speech
+*[overboard]: to extremes
+
 <p align="center">&sect;</p> 
 
 **P's speech**
 
 Presto!
 
-Presented, a humble practiced performer, cast by proxy as both predator and prey by the permutations of Fate. This pretense, no mere posture of pride, is a persistance of the populi vox, now passed, perished. However, this plucky presentation of a by-gone problem stands primed, and has pledged to penalise these perfidious and poisonous pests protecting perversion and promising the powerfully primitive and prodigious prohibition of purpose.
+Presented, a humble practiced performer, cast by proxy as both predator and prey by the permutations of Fate. This pretense, no mere posture of pride, is a persistence of the populi vox, now passed, perished. However, this plucky presentation of a by-gone problem stands primed, and has pledged to penalise these perfidious and poisonous pests protecting perversion and promising the powerfully primitive and prodigious prohibition of purpose.
 
 *[carves P into wall]*
 
@@ -155,6 +270,19 @@ The only pronouncement is punishment; a payback, held as a pact, not profitless,
 *[giggles]*
 
 Positively, this potpurri of pleonasm pivots most periphrastic, so let me simply add that it is my very good honor to meet you and you may call me P.
+
+*[Presto]: Quickly
+*[pretense]: false appearance
+*[plucky]: showing courage
+*[perfidious]: unfaithful, tending to betray
+*[perversion]: misconduct, corruption
+*[prodigious]: so great in size as to elicit awe
+*[pronouncement]: authoritative declaration
+*[probity]: integrity, honesty
+*[perpicacious]: acute or penetratingly discerning
+*[potpurri]: collection or composition
+*[pleonasm]: verbosity
+*[periphrastic]: roundabout and unnecessarily wordy
 
 <p align="center">&sect;</p> 
 
@@ -176,7 +304,7 @@ Quand même, this quarring quagmire of quethery quirks most quotted, so let me q
 
 **Alphabet's speech**
 
-AHEM!
+Ahem!
 
 Behold, a courteous disciplined expert, framed as both guilty and heel by the ironic juxtaposition of karma. This lingering masquerade, no overlay of pompousness, the questionable remnant of social disobedience, terminated. Unless, we valorous warriors, xebec yachtsmen, stand zealously against the bribing, censorious, demons, the execrable foul greedy hoarder of innovations.
 
@@ -187,6 +315,19 @@ The only justice is knowledge, liberating the millions of netizens from the oppo
 *[buhahahaha]*
 
 Admittedly, this is a blabbering concoction of discursively effective gibberish and hyperarticulation, so let me simply add that it is my very good honor to meet you and you may call us Anonymous.
+
+*[juxtaposition]: putting side-by-side for comparison
+*[lingering]: delaying
+*[pompousness]: ostentatiousness, lack of elegance
+*[xebec]: a type of transport ship
+*[zealously]: with enthusiasm
+*[censorious]: expressing censure or criticism
+*[execrable]: unequivocally detestable, abominable
+*[xenobiotic]: fear of foreigners
+*[blabbering]: speak incessantly, gibber, palaver
+*[concoction]: mixture
+*[discursively]: departing from the main point, digressive, rambling
+*[hyperarticulation]: exaggerated articulation
 
 ---
 
