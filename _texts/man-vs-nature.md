@@ -7,6 +7,8 @@ editor: Harshit Kumar
 source: 
 ---
 
+<img src="/poems/assets/nature.jpg" style="display: block; margin: auto; max-width: 100%;">
+
 - The heavens roared with thunder
 - as lightning filled the skies
 - was this God getting angry

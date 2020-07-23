@@ -7,6 +7,8 @@ editor: Harshit Kumar
 source: PoemHunter
 ---
 
+<img src="/poems/assets/silence.jpg" style="display: block; margin: auto; max-width: 100%;">
+
 - I have known the silence of the stars and of the sea,
 - And the silence of the city when it pauses,
 - And the silence of a man and a maid,

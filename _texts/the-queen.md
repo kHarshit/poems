@@ -7,6 +7,8 @@ editor: Harshit Kumar
 source: Genuis.com
 ---
 
+<img src="/poems/assets/queen.jpg" style="display: block; margin: auto; max-width: 100%;">
+
 - I have named you queen.
 - There are taller than you, taller.
 - There are purer than you, purer.

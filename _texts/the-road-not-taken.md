@@ -7,6 +7,8 @@ editor: Harshit Kumar
 source: Poetry Foundation
 ---
 
+<img src="/poems/assets/roads.jpg" style="display: block; margin: auto; max-width: 100%;">
+
 - Two roads diverged in a yellow wood,
 - And sorry I could not travel both
 - And be one traveler, long I stood
