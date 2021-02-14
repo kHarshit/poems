@@ -32,6 +32,3 @@ source: reddit.com/user/Poem_for_your_sprog/
 - With all that extra time to spend,
 - To spare, to share, to know -
 - I'd live my dreams...
-
-- ... but in the end,
-- I'd only waste it though.
