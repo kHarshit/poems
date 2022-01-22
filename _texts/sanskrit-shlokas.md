@@ -19,3 +19,9 @@ editor: Harshit Kumar
 
 - He (a particular individual) is either my own (ie. friend, relative, etc.) or otherwise (निजः वा परः ). Such is the calculated understanding of those of limited and small minds (इति गणना लघुचेतसाम्). 
 - Whereas, those of expansive and generous lives (उदारचरितानां) see the whole world as their family (वसुधैव कुटुम्बकम्).
+
+<p align="center">&#x950;</p> 
+
+- उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत 
+
+- Arise, awake, and stop not till the goal is reached.
