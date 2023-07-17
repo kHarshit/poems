@@ -1,9 +1,9 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Harshit Kumar | poems
-tagline:             'My favourite poems'
-description:         'This site is a collection of my favourite poems.'
+title:               Harshit's fav poems
+tagline:             'Harshit's fav poems'
+description:         'This site is a collection of Harshit's favourite poems.'
 url:                 'https://kharshit.github.io/'
 baseurl:             '/poems'
 
