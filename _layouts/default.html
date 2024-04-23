@@ -19,6 +19,14 @@
     <div class="wrap">
       <header class="masthead">
         <div class="container">
+
+          <!-- Dark theme -->
+          <div class="theme-toggle" id="theme-toggle">
+            <i class="fa fa-sun-o toggle-icon" title="Switch theme"></i>
+            <i class="fa fa-moon-o toggle-icon" title="Switch theme" style="display:none;"></i>
+        </div>
+        
+          
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
             <br><small>{{ site.tagline }}</small>
@@ -85,5 +93,7 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+
+<script src="{{ site.baseurl }}/assets/js/dark_theme.js"></script>
   </body>
 </html>
