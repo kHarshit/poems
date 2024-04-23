@@ -5,6 +5,7 @@ author: Pablo Neruda
 date: 2019-11-15 20:51 +05:30
 editor: Harshit Kumar
 source: PoetryHunter
+categories: romantic
 ---
 
 - I want you to know

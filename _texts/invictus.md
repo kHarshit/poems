@@ -5,6 +5,7 @@ author: William Ernest Henley
 date: 2019-11-15 20:19 +05:30
 editor: Harshit Kumar
 source: Poetry Foundation
+categories: motivational
 ---
 
 - Out of the night that covers me,

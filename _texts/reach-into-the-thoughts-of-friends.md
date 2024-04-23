@@ -5,6 +5,7 @@ author: Dru Mims
 date: 2021-08-15 18:32 +05:30
 editor: Harshit Kumar
 source: Linux song poems
+categories: life
 ---
 
 - Reach into the thoughts of friends,

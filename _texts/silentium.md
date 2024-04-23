@@ -5,6 +5,7 @@ author: Fyodor Tyutchev
 date: 2020-01-20 12:05 +05:30
 editor: Harshit Kumar
 source: Culturedarm
+categories: life
 ---
 
 - Speak not, lie hidden, and conceal

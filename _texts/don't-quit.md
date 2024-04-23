@@ -5,6 +5,7 @@ author: John Greenleaf Whittier
 date: 2019-12-12 11:30 +05:30
 editor: Harshit Kumar
 source: Public Domain
+categories: motivational
 ---
 
 - When things go wrong as they sometimes will,

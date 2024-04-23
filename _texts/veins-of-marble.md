@@ -5,6 +5,7 @@ author: u/OlivesBark
 date: 2020-01-20 11:50 +05:30
 editor: Harshit Kumar
 source: r/OCPoetry
+categories: romantic
 ---
 
 - If lovers turned to stone

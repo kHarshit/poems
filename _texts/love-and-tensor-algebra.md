@@ -5,6 +5,7 @@ author: Stanislaw Lem
 date: 2019-11-15 21:57 +05:30
 editor: Harshit Kumar
 source: Poetry Foundation
+categories: romantic
 ---
 
 - Come, let us hasten to a higher plane

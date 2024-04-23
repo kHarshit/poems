@@ -5,6 +5,7 @@ author: Rabindranath Tagore
 date: 2019-11-20 21:59 +05:30
 editor: Harshit Kumar
 source: Gitanjali
+categories: life
 ---
 
 - Where the mind is without fear and the head is held high;

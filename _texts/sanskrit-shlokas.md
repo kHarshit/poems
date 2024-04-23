@@ -4,6 +4,7 @@ title: Sanskrit Shlokas (संस्कृत श्लोक)
 author: Various authors
 date: 2021-12-18 14:20 +05:30
 editor: Harshit Kumar
+categories: life
 ---
 
 - विद्यां ददाति विनयं, विनयाद् याति पात्रताम्।

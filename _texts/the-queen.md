@@ -5,6 +5,7 @@ author: Pablo Neruda
 date: 2019-11-16 16:11 +05:30
 editor: Harshit Kumar
 source: Genuis.com
+categories: romantic
 ---
 
 <img src="/poems/assets/queen.jpg" style="display: block; margin: auto; max-width: 100%;">

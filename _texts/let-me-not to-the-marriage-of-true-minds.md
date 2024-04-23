@@ -4,6 +4,7 @@ title: Let me not to the marriage of true minds
 author: William Shakespeare
 date: 2023-04-17 15:58 -04:00
 editor: Harshit Kumar
+categories: romantic
 ---
 
 - Let me not to the marriage of true minds

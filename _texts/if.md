@@ -5,6 +5,7 @@ author: Rudyard Kipling
 date: 2019-11-16 15:58 +05:30
 editor: Harshit Kumar
 source: Poets.org
+categories: motivational
 ---
 
 - If you can keep your head when all about you

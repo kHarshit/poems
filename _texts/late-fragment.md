@@ -5,6 +5,7 @@ author: Raymond Carver
 date: 2019-11-18 22:54 +05:30
 editor: Harshit Kumar
 source: Words for the year
+categories: life
 ---
 
 - And did you get what

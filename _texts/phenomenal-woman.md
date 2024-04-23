@@ -5,6 +5,7 @@ author: Maya Angelou
 date: 2019-11-15 20:58 +05:30
 editor: Harshit Kumar
 source: Famous Poets and Poems
+categories: motivational
 ---
 
 - Pretty women wonder where my secret lies.

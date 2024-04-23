@@ -5,6 +5,7 @@ author: Maha Upanishad 6.71–75
 date: 2019-11-16 21:28 +05:30
 editor: Harshit Kumar
 source: Wikipedia, [Quora answer](https://qr.ae/T94I4v)
+categories: life
 ---
 
 - अयं निजः परो वे/ति गणना लघुचेतसाम् ।

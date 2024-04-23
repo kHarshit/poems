@@ -5,6 +5,7 @@ author: Unknown
 date: 2019-11-16 15:31 +05:30
 editor: Harshit Kumar
 source: Unknown
+categories: motivational
 ---
 
 ![poem.jpg](/poems/assets/poem1.jpg)

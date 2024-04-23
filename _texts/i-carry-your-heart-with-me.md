@@ -5,6 +5,7 @@ author: E. E. Cummings
 date: 2023-06-11 08:35 -04:00
 editor: Harshit Kumar
 source: Poets.org
+categories: romantic
 ---
 
 - i carry your heart with me(i carry it in

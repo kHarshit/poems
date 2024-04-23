@@ -5,6 +5,7 @@ author: Poem_for_your_sprog
 date: 2019-11-16 16:20 +05:30
 editor: Harshit Kumar
 source: reddit.com/user/Poem_for_your_sprog/
+categories: romantic
 ---
 
 - You're my comfort and my pleasure,

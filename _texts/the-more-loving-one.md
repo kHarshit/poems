@@ -5,6 +5,7 @@ author: W. H. Auden
 date: 2023-06-11 08:12 -04:00
 editor: Harshit Kumar
 source: Poets.org
+categories: romantic
 ---
 
 - Looking up at the stars, I know quite well  

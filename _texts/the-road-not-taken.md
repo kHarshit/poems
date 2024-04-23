@@ -5,6 +5,7 @@ author: Robert Frost
 date: 2019-11-20 22:23 +05:30
 editor: Harshit Kumar
 source: Poetry Foundation
+categories: life
 ---
 
 <img src="/poems/assets/roads.jpg" style="display: block; margin: auto; max-width: 100%;">

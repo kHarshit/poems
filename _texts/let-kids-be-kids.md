@@ -5,6 +5,7 @@ author: Jennifer Caldwell
 date: 2020-04-19 10:25 +05:30
 editor: Harshit Kumar
 source: 
+categories: life
 ---
 
 - Let kids be kids; just let them be

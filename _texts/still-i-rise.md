@@ -5,6 +5,7 @@ author: Maya Angelou
 date: 2019-11-15 21:50 +05:30
 editor: Harshit Kumar
 source: Poem Hunter
+categories: motivational
 ---
 
 - You may write me down in history

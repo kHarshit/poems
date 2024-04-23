@@ -5,6 +5,7 @@ author: David Feinberg
 date: 2019-11-15 22:18 +05:30
 editor: Harshit Kumar
 source: Genius.com
+categories: romantic
 ---
 
 - I fear that I will always be

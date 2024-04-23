@@ -5,6 +5,7 @@ author: V for Vendetta
 date: 2020-06-26 10:40 +05:30
 editor: Harshit Kumar
 source: 
+categories: life
 ---
 
 <img src="/poems/assets/Anonymous.jpg" style="display: block; margin: auto; max-width: 100%;">

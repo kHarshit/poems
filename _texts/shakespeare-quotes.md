@@ -4,6 +4,7 @@ title: Shakespeare Quotes
 author: William Shakespeare
 date: 2023-05-06 13:00 -04:00
 editor: Harshit Kumar
+categories: romantic
 ---
 
 - Shall I compare thee to a summer's day?

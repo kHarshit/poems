@@ -5,6 +5,7 @@ author: Norman Littleford
 date: 2020-04-22 21:16 +05:30
 editor: Harshit Kumar
 source: 
+categories: life
 ---
 
 <img src="/poems/assets/nature.jpg" style="display: block; margin: auto; max-width: 100%;">

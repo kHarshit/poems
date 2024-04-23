@@ -5,6 +5,7 @@ author: Edgar Guest
 date: 2020-04-22 21:10 +05:30
 editor: Harshit Kumar
 source: Family Friend Poems
+categories: life
 ---
 
 - Is anybody happier because you passed his way?

@@ -5,6 +5,7 @@ author: E. E. Cummings
 date: 2020-04-19 10:24 +05:30
 editor: Harshit Kumar
 source: 
+categories: life
 ---
 
 - You are tired,

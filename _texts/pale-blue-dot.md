@@ -5,6 +5,7 @@ author: Carl Sagan
 date: 2020-12-03 10:00 +05:30
 editor: Harshit Kumar
 source: 
+categories: life
 ---
 
 <img src="/poems/assets/pale_blue_dot_revisited.jpg" style="display: block; margin: auto; max-width: 100%;">

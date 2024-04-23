@@ -5,6 +5,7 @@ author: Edgar Lee Masters
 date: 2019-11-15 21:00 +05:30
 editor: Harshit Kumar
 source: PoemHunter
+categories: life
 ---
 
 <img src="/poems/assets/silence.jpg" style="display: block; margin: auto; max-width: 100%;">
