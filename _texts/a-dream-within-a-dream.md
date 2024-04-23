@@ -5,6 +5,7 @@ author: Edgar Allan Poe
 date: 2019-11-15 20:54 +05:30
 editor: Harshit Kumar
 source: Poetry Foundation
+categories: motivational
 ---
 
 - Take this kiss upon the brow!
