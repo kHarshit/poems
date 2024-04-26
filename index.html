@@ -35,7 +35,7 @@ years.
   <ul class="texts">
     {% for item in site.texts %}
         {% assign category_classes = item.categories | join: ' ' %}
-        <li class="text-title {{ category_classes | slugify }}">
+        <li class="text-category-title {{ category_classes | slugify }}">
             <a href="{{ site.baseurl }}{{ item.url }}">
                 {{ item.title }}
             </a>

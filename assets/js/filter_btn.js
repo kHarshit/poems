@@ -1,6 +1,6 @@
 function filterSelection(category) {
     var x, i;
-    x = document.getElementsByClassName('text-title');
+    x = document.getElementsByClassName('text-category-title');
     if (category == 'all') category = '';
     for (i = 0; i < x.length; i++) {
         removeClass(x[i], 'show');

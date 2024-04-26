@@ -15,9 +15,16 @@
     color: white;
 }
 
-.text-title {
+.text-category-title {
     display: none;
 }
-.text-title.show {
+.text-category-title.show {
     display: list-item; /* or block, inline-block, etc., depending on your layout */
+}
+
+.text-category-title.show a, 
+.text-category-title.show a:visited, 
+.text-category-title.show a:hover, 
+.text-category-title.show a:active {
+    color: #841212;
 }
